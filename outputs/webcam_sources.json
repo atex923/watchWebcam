@@ -1,0 +1,7 @@
+{
+  "interval_seconds": 120,
+  "slide_seconds": 5,
+  "include_files": [
+    "guideme24_webcams.json"
+  ]
+}

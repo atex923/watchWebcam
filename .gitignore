@@ -1,0 +1,18 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+*.log
+
+# Local capture output
+outputs/Temppic/
+outputs/Livepic/
+outputs/captured_frames/
+outputs/captured_frames_test/
+outputs/guideme24_test_frames/
+outputs/youtube_stream_test_frames/
+outputs/skyline_test_frames/
+
+# Local scratch data gathered during source discovery
+work/
+outputs/outputs/
+

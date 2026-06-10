@@ -1,0 +1,98 @@
+{
+  "interval_seconds": 120,
+  "slide_seconds": 5,
+  "refreshed_from": "outputs/guideme24_webcams.json",
+  "report": "outputs/guideme24_refresh_report_test.json",
+  "cameras": [
+    {
+      "name": "東京西武新宿站Pepe前廣場",
+      "country": "日本",
+      "kind": "youtube_stream",
+      "url": "https://www.youtube.com/watch?v=lA6TaaMGgDo",
+      "interval_seconds": 120,
+      "source_page": "https://guideme24.com/products/e10",
+      "youtube_id": "lA6TaaMGgDo"
+    },
+    {
+      "name": "北海道-札幌綜合廣場, 札幌電視塔",
+      "country": "日本",
+      "kind": "youtube_stream",
+      "url": "https://www.youtube.com/watch?v=kfIQBC0hrII",
+      "interval_seconds": 120,
+      "source_page": "https://guideme24.com/products/e100",
+      "youtube_id": "kfIQBC0hrII"
+    },
+    {
+      "name": "北海道-濱小清水車站",
+      "country": "日本",
+      "kind": "youtube_stream",
+      "url": "https://www.youtube.com/watch?v=YodyWQUs24I",
+      "interval_seconds": 120,
+      "source_page": "https://guideme24.com/products/e100-7",
+      "youtube_id": "YodyWQUs24I"
+    },
+    {
+      "name": "北海道-狸小路八條街景",
+      "country": "日本",
+      "kind": "youtube_stream",
+      "url": "https://www.youtube.com/watch?v=HiNFpNlSAbg",
+      "interval_seconds": 120,
+      "source_page": "https://guideme24.com/products/e102",
+      "youtube_id": "HiNFpNlSAbg"
+    },
+    {
+      "name": "北海道-札幌市區街景,創成川公園",
+      "country": "日本",
+      "kind": "youtube_stream",
+      "url": "https://www.youtube.com/watch?v=6DhFMy_i8bg",
+      "interval_seconds": 120,
+      "source_page": "https://guideme24.com/products/e104-1",
+      "youtube_id": "6DhFMy_i8bg"
+    },
+    {
+      "name": "北海道-札幌駅JR",
+      "country": "日本",
+      "kind": "youtube_stream",
+      "url": "https://www.youtube.com/watch?v=I1kJB1jdGo0",
+      "interval_seconds": 120,
+      "source_page": "https://guideme24.com/products/e104-3",
+      "youtube_id": "I1kJB1jdGo0"
+    },
+    {
+      "name": "北海道-函館山頂景觀台-纜車山頂📵",
+      "country": "日本",
+      "kind": "youtube_stream",
+      "url": "https://www.youtube.com/watch?v=s--MDmshT3I",
+      "interval_seconds": 120,
+      "source_page": "https://guideme24.com/products/e106-1",
+      "youtube_id": "s--MDmshT3I"
+    },
+    {
+      "name": "北海道-函館山頂景觀台-纜車山頂📵",
+      "country": "日本",
+      "kind": "youtube_stream",
+      "url": "https://www.youtube.com/watch?v=s--MDmshT3I",
+      "interval_seconds": 120,
+      "source_page": "https://guideme24.com/products/e106-1?path=111",
+      "youtube_id": "s--MDmshT3I"
+    },
+    {
+      "name": "北海道-志幌町市中心",
+      "country": "日本",
+      "kind": "youtube_stream",
+      "url": "https://www.youtube.com/watch?v=cElpVZpu1wI",
+      "interval_seconds": 120,
+      "source_page": "https://guideme24.com/products/e107",
+      "youtube_id": "cElpVZpu1wI"
+    },
+    {
+      "name": "北海道-十勝大橋-日出廣場公園",
+      "country": "日本",
+      "kind": "youtube_stream",
+      "url": "https://www.youtube.com/watch?v=G2pXkb7DdPE",
+      "interval_seconds": 120,
+      "source_page": "https://guideme24.com/products/e107-1",
+      "youtube_id": "G2pXkb7DdPE"
+    }
+  ]
+}

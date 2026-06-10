@@ -1,0 +1,6 @@
+requests
+pillow
+opencv-python
+beautifulsoup4
+yt-dlp
+playwright

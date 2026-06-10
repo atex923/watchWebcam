@@ -1,0 +1,32 @@
+{
+  "interval_seconds": 20,
+  "cameras": [
+    {
+      "name": "Heidelberg Pendulum Camera",
+      "country": "Germany",
+      "kind": "mjpeg",
+      "url": "https://pendelcam.kip.uni-heidelberg.de/mjpg/video.mjpg"
+    },
+    {
+      "name": "Replace With Tokyo Public Webcam",
+      "country": "Japan",
+      "kind": "auto",
+      "url": "https://example.com/tokyo-webcam.jpg",
+      "enabled": false
+    },
+    {
+      "name": "Replace With New York Public Webcam",
+      "country": "United States",
+      "kind": "auto",
+      "url": "https://example.com/new-york-webcam.mjpg",
+      "enabled": false
+    },
+    {
+      "name": "Replace With Paris Public Webcam",
+      "country": "France",
+      "kind": "auto",
+      "url": "https://example.com/paris-webcam.jpg",
+      "enabled": false
+    }
+  ]
+}
