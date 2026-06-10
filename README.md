@@ -11,8 +11,8 @@ WebCamTraveler V0.1.12
 ## Run
 
 ```bash
-python3 -m pip install -r outputs/world_webcam_viewer_requirements.txt
-python3 outputs/WebCamTraveler_V0.1.12.py
+python3 -m pip install -r requirements.txt
+python3 WebCamTraveler.py
 ```
 
 The default configuration is:
@@ -31,11 +31,10 @@ Older generated versions are archived in:
 outputs/program_history/
 ```
 
-The current runnable version remains in `outputs/`.
+The current homepage entry point is `WebCamTraveler.py`. The versioned copy remains in `outputs/WebCamTraveler_V0.1.12.py`, and historical versions remain in `outputs/program_history/`.
 
 More detailed Traditional Chinese usage notes are in:
 
 ```text
 outputs/world_webcam_viewer_README.md
 ```
-
